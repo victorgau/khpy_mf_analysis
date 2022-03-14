@@ -16,7 +16,5 @@
 
 ## 參考資料
 
-* [中華民股證券投資信託暨顧問商業同業公會](https://www.sitca.org.tw/)
-* [基金類別績效（ 晨星 ）](https://www.sitca.org.tw/ROC/Industry/IN2421.aspx)
-* [基金績效評比（ 晨星 ）](https://www.sitca.org.tw/ROC/Industry/IN2422.aspx)
+* [基金類別績效（晨星）](https://www.sitca.org.tw/ROC/Industry/IN2421.aspx)
 * [https://github.com/dong945/Python-Crawler](https://github.com/dong945/Python-Crawler)
