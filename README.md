@@ -12,7 +12,7 @@
 
 因為我覺得這是一個用來說明pandas及set的應用的很好例子，所以擷取了陳大哥簡報中的概念，重新錄製成影片來分享，方便大家學習。
 
-講義連結：[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/victorgau/khpy_mf_analysis/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/victorgau/khpy_mf_analysis/)
 
 ## 參考資料
 
