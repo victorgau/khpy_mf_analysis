@@ -3,8 +3,12 @@
 ## 關於唯客學院
 
 * [唯客學院網址](http://www.vcdemy.com)
-* [唯客學院粉絲團](https://www.facebook.com/KHPYAcademy/)
+* [唯客學院粉絲團](https://www.facebook.com/vcdemy/)
 * [唯客學院線上教學](https://khpy.teachable.com)
+
+## 教學影片
+
+* [共同基金分析](https://www.youtube.com/playlist?list=PLj4JWjo5dOC4GfFCP3tMWQ-YAdOJ590sn)
 
 ## 說明
 
